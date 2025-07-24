@@ -28,11 +28,6 @@ This is a simple and interactive **chatbot** created as part of my **internship 
 4. Type a message and click **Send**
 5. Click the 🔊 **Speak** button to hear the bot's reply
 
-## 🌐 Live Demo
-
-> You can see this project live here:  
-> [🔗 View Chatbot Online](file:///C:/Users/C.%20Harini/Documents/Cognifyz_FullStack_Internship/Level_2_Task_1/index.html) 
-
 ## 📚 What I Learned
 
 - Basics of how chatbots work
